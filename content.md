@@ -9,7 +9,7 @@ We are a technology company first, but with a major focus on consumer well-being
 Headline: A healthy meal delivered to your door, every single day
 
 Brand color: #e67e22
-
+extra color:#f8d8bd
 ## Omnifood Website Content
 
 ### Summary
@@ -126,3 +126,16 @@ Careers
 Recipe directory
 Help center
 Privacy & terms
+
+## Sections
+-navigation
+-Hero
+-Featured in
+-Features
+-How it works
+-Diets
+-Meals
+-CTA
+-Pricing
+-Gallery
+-Testimonials
